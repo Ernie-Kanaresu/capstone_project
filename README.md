@@ -8,15 +8,14 @@ The Europe Travel Website has been deployed to the following Google Cloud servic
 
 | Service         | Description                                                                 | Example Site Link (Placeholder)                     |
 | :-------------- | :-------------------------------------------------------------------------- | :-------------------------------------------------- |
-| **Google Compute Engine (GCE)** | Deployed on a virtual machine.                                              | `http://[GCE_EXTERNAL_IP]`                          |
-| **Google Kubernetes Engine (GKE)** | Containerized deployment behind an external Load Balancer for scalability. | `http://[GKE_LOAD_BALANCER_IP]`                     |
-| **Cloud Run** | Serverless containerized deployment.                                        | `https://[CLOUD_RUN_SERVICE_URL]`                   |
-| **App Engine** | Deployed on the App Engine Standard environment for static content serving. | `https://[PROJECT_ID].REGION_ID.r.appspot.com`      |
+| **Google Compute Engine (GCE)** | Deployed on a virtual machine.                                              | `http://104.198.178.152/`                          |
+| **Google Kubernetes Engine (GKE)** | Containerized deployment behind an external Load Balancer for scalability. | `http://34.9.43.4:8080/`                     |
+| **Cloud Run** | Serverless containerized deployment.                                        | `https://test-image-140708735967.us-central1.run.app/`                   |
+| **App Engine** | Deployed on the App Engine Standard environment for static content serving. | `https://ernestoguillen-dev.uc.r.appspot.com/`      |
 
 ## Team Members
 
 This project was made possible by the dedicated efforts of the following cloud engineers:
 
-* [Add Team Member Name Here]
-* [Add Team Member Name Here]
-* [Add Team Member Name Here]
+* Kenny Diane Martínez Vega
+* Ernesto José Canales Guillén
